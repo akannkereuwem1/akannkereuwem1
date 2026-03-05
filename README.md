@@ -247,7 +247,7 @@ class BackendEngineer:
 ## Education & Certifications
 
 **Bachelor of Science in Computer Science** (Expected 2027)  
-Current GPA: 3.8/4.0 • Focus: Software Engineering, Data Structures, Database Systems
+Current GPA: 4.5/5.0 • Focus: Software Engineering, Data Structures, Database Systems
 
 **Certifications:**
 - Data Structures & Algorithms Specialization — Coursera (2024)
