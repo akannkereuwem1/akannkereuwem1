@@ -16,7 +16,7 @@
 
 ## About
 
-Software engineer with a focus on **backend systems**, **cross-platform mobile development**, and **AI-integrated products**. I build things that are reliable under pressure and designed to last — not just to ship.
+Software engineer with a focus on **backend systems**, **cross-platform mobile development**, and **AI-integrated products**. I build things that are reliable under pressure and designed to last: not just to ship.
 
 My work spans layered REST APIs with strict architectural separation, Flutter applications engineered for offline-first UX, and multi-agent AI pipelines with compliance guardrails. Currently studying Computer Science (B.Sc., expected 2027) and deepening my understanding of event-driven architecture and serverless design patterns.
 
