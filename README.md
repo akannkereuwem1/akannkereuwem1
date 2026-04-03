@@ -1,7 +1,7 @@
 <div align="center">
 
 # Akan Nkereuwem
-### Software Engineer — Backend Systems · Mobile Development · AI Integration
+### Software Engineer. Backend Systems · Mobile Development · AI Integration
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akan--nkereuwem.dev-000000?style=flat&logo=safari&logoColor=white)](https://akan-nkereuwem.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akan-nkereuwem)
